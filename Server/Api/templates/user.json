@@ -1,0 +1,14 @@
+{
+	"name": {
+    "firstName": "Carl",
+    "lastName": "Mansson"
+  },
+  "contactInfo": {
+    "phone": "070707070707",
+    "email": "jo@j.com"
+  },
+  "status": {
+    "isCheckedIn": true,
+    "place": "5dd3ff4d392b683835f9aa5c"
+  }
+}
